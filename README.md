@@ -7,7 +7,7 @@ Projeto de QA
 
 ## 👥 Integrantes
 - **CAIO CRISTIANO ANTUNES ASSMANN — 632410044**
-- *(Adicione outros integrantes, se houver)*
+
 
 ---
 
