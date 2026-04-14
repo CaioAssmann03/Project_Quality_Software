@@ -2,7 +2,7 @@
 Projeto de QA 
 📝 Projeto — Qualidade de Software
 👥 Integrantes
-Seu Nome Completo — Matrícula
+CAIO CRISTIANO ANTUNES ASSMANN — 632410044
 (Adicione outros integrantes, se houver)
 🎯 Objetivo do Repositório
 
