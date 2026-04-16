@@ -1,0 +1,74 @@
+# Estratégia Inicial de Testes – LocalEats
+
+## 1. Funcionalidades
+- Login
+- Busquem restaurantes por tipo de culinária, localização e faixa de preço
+- Visualizem cardápios, fotos e avaliações
+- Salvem locais favoritos
+- Recebam recomendações personalizadas
+- Compartilhem experiências
+
+
+---
+
+## 2. Níveis de Teste
+
+### Funcionalidade: Login
+- Unitário: validar senha e campos obrigatórios
+- Integração: verificar comunicação com banco
+- Sistema: usuário faz login completo
+- Aceitação: usuário entra no sistema sem erro
+
+### Funcionalidade: Campo de Busca 
+- Unitário: Testar se o campo de busca retorna resultados corretos ao inserir um termo específico
+- Integração: Verificar se o campo de busca se comunica corretamente com o banco de dados e retorna os restaurantes conforme filtros aplicados (tipo, localização e preço)
+- Sistema: Testar o funcionamento completo da busca dentro da aplicação, incluindo exibição de resultados, navegação e performance
+- Aceitação: Validar se a busca atende às expectativas do usuário, retornando resultados relevantes de forma rápida e fácil de usar
+
+
+Funcionalidade: Visualizar cardápios, fotos e avaliações
+
+- Unitário: Testar se os dados (cardápio, fotos e avaliações) são exibidos corretamente na interface
+
+- Integração: Verificar se as informações são carregadas corretamente do banco de dados ou API
+
+- Sistema: Testar o fluxo completo de visualização, desde a seleção do restaurante até a exibição dos detalhes
+
+- Aceitação: Validar se o usuário consegue visualizar facilmente as informações e se elas são claras e completas
+---
+
+## 3. Prioridades e Riscos
+
+Alta prioridade:
+- Login → sem login o usuário não usa o sistema
+- XXX
+
+Justificativa:
+Falhas nessas áreas impedem o uso da plataforma.
+
+Baixa prioridade: 
+- Favoritos → não impede uso
+
+Justificativa:
+XXX.
+
+---
+
+## 4. Pirâmide de Testes
+
+- Maior foco: XXX
+- Médio foco: XXX
+- Menor foco: XXX
+
+Justificativa:
+XXX.
+
+---
+
+## 5. Testes em Produção
+
+- Uso de XXX
+- Aplicar em XXX
+
+Justificativa:
+XXX.
