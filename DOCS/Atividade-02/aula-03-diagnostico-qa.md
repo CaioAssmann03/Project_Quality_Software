@@ -1,143 +1,181 @@
-#1. Diagnóstico da Situação Atual
+# Diagnóstico de Qualidade – Startup Local Eats
 
-Atualmente, a startup apresenta sinais claros de falta de organização na qualidade do software. Com base no cenário descrito , é possível identificar:
+> Disciplina: Qualidade de Software  
+> Aula 3 – Papéis, Responsabilidades e Práticas de QA  
+> Nome: Caio Assmann
+> Matrícula: 632410044  
 
-Papéis existentes
-Desenvolvedores
-Analista de Sistemas
-Possivelmente um Gerente de Produto
-QA (se existir, não está bem definido)
-Responsável pela qualidade
+---
 
-A qualidade provavelmente está sendo tratada de forma informal, ficando principalmente com os desenvolvedores, sem um responsável definido.
+# 1. Diagnóstico da Situação Atual
 
-Problemas identificados
-Erros ao finalizar pedidos
-Pedidos duplicados
-Bugs em produção
-Falta de clareza de responsabilidades
-Impactos
-Baixa confiabilidade do sistema
-Insatisfação de clientes e restaurantes
-Retrabalho da equipe
-Aumento de custos
-Conclusão
+## 1.1 Papéis atuais identificados
 
-A qualidade não está estruturada e não há definição clara de responsabilidades, o que compromete o produto.
+Liste quais papéis vocês acreditam que existem atualmente na startup.
 
-2. Papéis da Equipe
-👨‍💻 Desenvolvedor
+- Desenvolvedores
+- Analistas de Sistemas
+- Gerentes de produto
+- Não ficou claro se tem um QA  
 
-Responsabilidades:
+---
 
-Desenvolver funcionalidades
-Corrigir bugs
-Criar testes básicos
+## 1.2 Quem é responsável pela qualidade hoje?
 
-Relação com a qualidade:
-Responsável por garantir que o código funcione corretamente e tenha menos defeitos.
+Descreva como vocês acreditam que a qualidade está sendo tratada atualmente.
 
-🧪 QA (Analista de Qualidade)
+> Resposta:
 
-Responsabilidades:
+---A qualidade está sendo tratada pelo o que parece somente pelos desenvolvedores sem passar por uma equipe de QA. 
 
-Planejar e executar testes
-Identificar e registrar bugs
-Validar funcionalidades
+## 1.3 Problemas identificados
 
-Relação com a qualidade:
-Principal responsável por garantir que o sistema atenda aos requisitos de qualidade.
+Liste os principais problemas relacionados à falta de organização da qualidade.
 
-📊 Analista de Sistemas
+- Erros ao finalizar os pedidos dos clientes
+- Pedidos duplicados
+- Funcionalidades chegam na produção com defeitos
+- Não está definido quem garante a qualidade do software
 
-Responsabilidades:
+---
 
-Levantar requisitos
-Documentar funcionalidades
-Validar regras de negócio
+## 1.4 Impactos desses problemas
 
-Relação com a qualidade:
-Evita erros desde o início ao garantir requisitos bem definidos.
+Os problemas identificados impactam diretamente a qualidade do sistema e a experiência dos usuários.
 
-⚙️ DevOps
+Erros ao finalizar pedidos e pedidos duplicados geram insatisfação dos clientes e prejuízos para os restaurantes, afetando a credibilidade da plataforma.
 
-Responsabilidades:
+A presença de bugs em produção demonstra falta de controle de qualidade, aumentando a necessidade de retrabalho da equipe de desenvolvimento.
 
-Gerenciar deploy
-Monitorar sistema
-Automatizar processos
+Além disso, a ausência de responsabilidades bem definidas faz com que falhas passem despercebidas, reduzindo a eficiência do time e comprometendo a evolução do sistema.
 
-Relação com a qualidade:
-Garante estabilidade e confiabilidade em produção.
+Como consequência geral, a empresa pode perder usuários, reputação no mercado e ter aumento de custos operacionais.
 
-3. Responsabilidades relacionadas à qualidade
-Atividade	Responsável
-Testar funcionalidades	QA
-Registrar defeitos	QA
-Corrigir bugs	Desenvolvedor
-Revisar requisitos	Analista de Sistemas
-Validar antes da entrega	QA + Analista
-Deploy da aplicação	DevOps
-Monitoramento do sistema	DevOps
-4. Práticas de QA Sugeridas
+---
+
+## 1.5 A qualidade é responsabilidade de quem?
+
+A qualidade é responsabilidade de toda uma equipe, não apenas do Analista de qualidade(QA).
+
+
+---
+
+# 2. Papéis da Equipe Propostos
+
+Definam quais papéis deveriam existir na equipe da Local Eats.
+
+--- QA (Analista de Qualidade) um dos principais para garantir a qualidade do software.
+
+
+## 2.1 Lista de papéis
+
+-QA (Analista de Qualidade): responsável por testar, identificar falhas e validar funcionalidades
+
+-Desenvolvedor: responsável por implementar funcionalidades e corrigir bugs
+
+-Analista de Sistemas: responsável por definir e documentar requisitos corretamente
+
+-DevOps: responsável por garantir estabilidade, deploy e monitoramento do sistema
+
+---
+
+## 2.2 Descrição dos papéis
+
+Preencha a tabela abaixo:
+
+| Papel | Responsabilidades principais | Relação com a qualidade |
+| Desenvolvedor | Desenvolver funcionalidades, corrigir bugs, realizar testes básicos | Garante que o código funcione corretamente e com menos erros |
+| QA (Analista de Qualidade) | Planejar e executar testes, identificar defeitos, validar funcionalidades | Responsável por garantir que o sistema atenda aos requisitos de qualidade |
+| Analista de Sistemas | Levantar e documentar requisitos, validar regras de negócio | Evita erros desde o início com requisitos bem definidos |
+| DevOps | Gerenciar deploy, monitorar sistema, automatizar processos | Garante estabilidade e confiabilidade do sistema em produção |
+
+
+
+---
+
+# 3. Práticas de QA Sugeridas
+
 ✅ Testes manuais das funcionalidades principais
 Garantir que os fluxos mais importantes funcionem corretamente.
+
 🐞 Registro e acompanhamento de bugs
 Uso de ferramenta para controle de erros.
+
 🔍 Testes exploratórios
 Testar o sistema de forma livre para encontrar falhas inesperadas.
+
 ✔️ Validação antes da entrega (homologação)
 Nenhuma funcionalidade vai para produção sem validação.
+
 🔁 Integração contínua (CI)
 Automatizar testes e deploy para reduzir erros.
-5. Anúncios de Contratação
-📢 Vaga 1: Analista de Qualidade de Software (QA)
+
+# 4. Anúncios de Contratação
+
+A startup decidiu contratar novos profissionais. Crie anúncios de vagas.
+
+##📢 Vaga 1: Analista de Qualidade de Software (QA)
 
 Empresa: Local Eats
 Local: Porto Alegre – RS
 Modelo: Híbrido
 
-Descrição da vaga
-
+###Descrição da vaga
 A Local Eats busca um profissional de QA para garantir a qualidade do sistema de pedidos online, atuando junto à equipe de desenvolvimento.
 
-Principais responsabilidades
+##Principais responsabilidades
 Planejar e executar testes
 Identificar e registrar bugs
 Validar funcionalidades
 Trabalhar com a equipe para melhorar a qualidade
-Requisitos obrigatórios
+
+###Requisitos obrigatórios
 Conhecimento em testes de software
 Boa comunicação
 Noções de desenvolvimento
-Requisitos desejáveis
+
+###Requisitos desejáveis
 Testes em aplicações web
 Ferramentas de bug tracking
 Git
-Certificações
+
+###Certificações
 ISTQB (diferencial)
-📢 Vaga 2: Desenvolvedor Full Stack
+
+##📢 Vaga 2: Desenvolvedor Full Stack
 
 Empresa: Local Eats
 Local: Porto Alegre – RS
 Modelo: Híbrido
 
-Descrição da vaga
-
+###Descrição da vaga
 A Local Eats busca desenvolvedor para atuar no desenvolvimento e manutenção da plataforma.
 
-Principais responsabilidades
+##Principais responsabilidades
 Desenvolver novas funcionalidades
 Corrigir bugs
 Criar testes básicos
 Trabalhar com equipe de QA
-Requisitos obrigatórios
+
+###Requisitos obrigatórios
 Conhecimento em programação (JavaScript, Node.js ou similar)
 Lógica de programação
 Git
-Requisitos desejáveis
+
+###Requisitos desejáveis
 Experiência com APIs
 Banco de dados (SQL)
 Testes automatizados
-Certificações
+
+###Certificações
 Cursos na área de desenvolvimento
+
+# 5. Conclusão da Equipe
+
+Descreva brevemente:
+
+- O que a equipe aprendeu com a atividade
+- Principais dificuldades encontradas
+- Principais melhorias propostas para a startup
+
+> Resposta:
