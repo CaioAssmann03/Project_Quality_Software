@@ -83,12 +83,16 @@ Definam quais papéis deveriam existir na equipe da Local Eats.
 
 Preencha a tabela abaixo:
 
+## 2.2 Descrição dos papéis
+
+Preencha a tabela abaixo:
+
 | Papel | Responsabilidades principais | Relação com a qualidade |
+|------|----------------------------|-------------------------|
 | Desenvolvedor | Desenvolver funcionalidades, corrigir bugs, realizar testes básicos | Garante que o código funcione corretamente e com menos erros |
 | QA (Analista de Qualidade) | Planejar e executar testes, identificar defeitos, validar funcionalidades | Responsável por garantir que o sistema atenda aos requisitos de qualidade |
 | Analista de Sistemas | Levantar e documentar requisitos, validar regras de negócio | Evita erros desde o início com requisitos bem definidos |
 | DevOps | Gerenciar deploy, monitorar sistema, automatizar processos | Garante estabilidade e confiabilidade do sistema em produção |
-
 
 
 ---
