@@ -1,4 +1,4 @@
-1. Diagnóstico da Situação Atual
+#1. Diagnóstico da Situação Atual
 
 Atualmente, a startup apresenta sinais claros de falta de organização na qualidade do software. Com base no cenário descrito , é possível identificar:
 
