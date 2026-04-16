@@ -81,11 +81,6 @@ Definam quais papéis deveriam existir na equipe da Local Eats.
 
 ## 2.2 Descrição dos papéis
 
-Preencha a tabela abaixo:
-
-## 2.2 Descrição dos papéis
-
-Preencha a tabela abaixo:
 
 | Papel | Responsabilidades principais | Relação com a qualidade |
 |------|----------------------------|-------------------------|
