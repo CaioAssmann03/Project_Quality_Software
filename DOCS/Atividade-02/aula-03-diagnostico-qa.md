@@ -120,7 +120,7 @@ Empresa: Local Eats
 Local: Porto Alegre – RS
 Modelo: Híbrido
 
-###Descrição da vaga
+##Descrição da vaga
 A Local Eats busca um profissional de QA para garantir a qualidade do sistema de pedidos online, atuando junto à equipe de desenvolvimento.
 
 ##Principais responsabilidades
@@ -129,17 +129,17 @@ Identificar e registrar bugs
 Validar funcionalidades
 Trabalhar com a equipe para melhorar a qualidade
 
-###Requisitos obrigatórios
+##Requisitos obrigatórios
 Conhecimento em testes de software
 Boa comunicação
 Noções de desenvolvimento
 
-###Requisitos desejáveis
+##Requisitos desejáveis
 Testes em aplicações web
 Ferramentas de bug tracking
 Git
 
-###Certificações
+##Certificações
 ISTQB (diferencial)
 
 ##📢 Vaga 2: Desenvolvedor Full Stack
@@ -148,7 +148,7 @@ Empresa: Local Eats
 Local: Porto Alegre – RS
 Modelo: Híbrido
 
-###Descrição da vaga
+##Descrição da vaga
 A Local Eats busca desenvolvedor para atuar no desenvolvimento e manutenção da plataforma.
 
 ##Principais responsabilidades
@@ -157,25 +157,24 @@ Corrigir bugs
 Criar testes básicos
 Trabalhar com equipe de QA
 
-###Requisitos obrigatórios
+##Requisitos obrigatórios
 Conhecimento em programação (JavaScript, Node.js ou similar)
 Lógica de programação
 Git
 
-###Requisitos desejáveis
+##Requisitos desejáveis
 Experiência com APIs
 Banco de dados (SQL)
 Testes automatizados
 
-###Certificações
+##Certificações
 Cursos na área de desenvolvimento
 
 # 5. Conclusão da Equipe
-
-Descreva brevemente:
-
-- O que a equipe aprendeu com a atividade
-- Principais dificuldades encontradas
-- Principais melhorias propostas para a startup
-
 > Resposta:
+
+Com a realização da atividade, eu compreendi a importância de uma estrutura bem definida de qualidade dentro do desenvolvimento de software, destacando que a qualidade não é responsabilidade de apenas uma pessoa, mas de toda a equipe.
+
+Uma das principais dificuldades encontradas foi identificar claramente os papéis e responsabilidades de cada membro, além de entender como cada função impacta diretamente na qualidade do sistema.
+
+Como melhorias para a startup, foram propostas a definição clara de papéis (como QA, desenvolvedor, analista e DevOps), a organização das responsabilidades relacionadas à qualidade e a adoção de práticas básicas de QA, como testes, registro de bugs e validação antes da entrega. Essas ações contribuem para reduzir erros, melhorar a confiabilidade do sistema e aumentar a satisfação dos usuários.
