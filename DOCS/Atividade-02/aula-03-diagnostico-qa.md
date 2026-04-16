@@ -114,61 +114,63 @@ Automatizar testes e deploy para reduzir erros.
 
 A startup decidiu contratar novos profissionais. Crie anúncios de vagas.
 
-##📢 Vaga 1: Analista de Qualidade de Software (QA)
+## 📢 Vaga 1: Analista de Qualidade de Software (QA)
 
-Empresa: Local Eats
-Local: Porto Alegre – RS
-Modelo: Híbrido
+**Empresa:** Local Eats  
+**Local:** Porto Alegre – RS  
+**Modelo:** Híbrido  
 
-##Descrição da vaga
+### Descrição da vaga
 A Local Eats busca um profissional de QA para garantir a qualidade do sistema de pedidos online, atuando junto à equipe de desenvolvimento.
 
-##Principais responsabilidades
-Planejar e executar testes
-Identificar e registrar bugs
-Validar funcionalidades
-Trabalhar com a equipe para melhorar a qualidade
+### Principais responsabilidades
+- Planejar e executar testes  
+- Identificar e registrar bugs  
+- Validar funcionalidades  
+- Trabalhar com a equipe para melhorar a qualidade  
 
-##Requisitos obrigatórios
-Conhecimento em testes de software
-Boa comunicação
-Noções de desenvolvimento
+### Requisitos obrigatórios
+- Conhecimento em testes de software  
+- Boa comunicação  
+- Noções de desenvolvimento  
 
-##Requisitos desejáveis
-Testes em aplicações web
-Ferramentas de bug tracking
-Git
+### Requisitos desejáveis
+- Testes em aplicações web  
+- Ferramentas de bug tracking  
+- Git  
 
-##Certificações
-ISTQB (diferencial)
+### Certificações
+- ISTQB (diferencial)  
 
-##📢 Vaga 2: Desenvolvedor Full Stack
+---
 
-Empresa: Local Eats
-Local: Porto Alegre – RS
-Modelo: Híbrido
+## 📢 Vaga 2: Desenvolvedor Full Stack
 
-##Descrição da vaga
-A Local Eats busca desenvolvedor para atuar no desenvolvimento e manutenção da plataforma.
+**Empresa:** Local Eats  
+**Local:** Porto Alegre – RS  
+**Modelo:** Híbrido  
 
-##Principais responsabilidades
-Desenvolver novas funcionalidades
-Corrigir bugs
-Criar testes básicos
-Trabalhar com equipe de QA
+### Descrição da vaga
+A Local Eats busca um desenvolvedor para atuar no desenvolvimento e manutenção da plataforma.
 
-##Requisitos obrigatórios
-Conhecimento em programação (JavaScript, Node.js ou similar)
-Lógica de programação
-Git
+### Principais responsabilidades
+- Desenvolver novas funcionalidades  
+- Corrigir bugs  
+- Criar testes básicos  
+- Trabalhar com a equipe de QA  
 
-##Requisitos desejáveis
-Experiência com APIs
-Banco de dados (SQL)
-Testes automatizados
+### Requisitos obrigatórios
+- Conhecimento em programação (JavaScript, Node.js ou similar)  
+- Lógica de programação  
+- Git  
 
-##Certificações
-Cursos na área de desenvolvimento
+### Requisitos desejáveis
+- Experiência com APIs  
+- Banco de dados (SQL)  
+- Testes automatizados  
+
+### Certificações
+- Cursos na área de desenvolvimento  
 
 # 5. Conclusão da Equipe
 > Resposta:
